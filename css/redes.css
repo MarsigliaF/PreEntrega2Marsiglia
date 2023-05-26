@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+
+body {
+    background-color: rgb(222, 222, 222);
+    background-size: 1920px 1300px;
+    background-repeat: no-repeat;
+}
+
+.redes {
+border-width: 0px;
+border-style: solid;
+margin-bottom: 30px;
+background-color: rgb(160, 160, 160);
+}
+
+.papo h1  {
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
